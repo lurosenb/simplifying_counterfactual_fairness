@@ -1,0 +1,8 @@
+pandas
+numpy
+torch
+pyro-ppl
+matplotlib
+seaborn
+sklearn
+statsmodels
